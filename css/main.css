@@ -1642,7 +1642,7 @@ input::-moz-focus-inner {
 }
 
 .s-header.sticky {
-  background-color: #050505;
+  background-color: #2F80ED;
   opacity: 0;
   visibility: hidden;
   position: fixed;
