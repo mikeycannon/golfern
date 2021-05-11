@@ -1651,8 +1651,7 @@ input::-moz-focus-inner {
 }
 
 .s-header.sticky .header-logo img {
-  width: 35px;
-  height: 38px;
+  width: 160px;
 }
 
 .s-header.sticky .header-content .btn {
