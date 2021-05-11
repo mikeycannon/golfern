@@ -3478,3 +3478,13 @@ html.no-csstransitions .hero-content {
   }
 
 }
+
+
+.information-name {
+  background-color: #fff;
+  padding: 10px;
+}
+.information-email {
+  background-color: #fff;
+  padding: 10px;
+}
