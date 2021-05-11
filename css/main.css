@@ -3479,12 +3479,12 @@ html.no-csstransitions .hero-content {
 
 }
 
+ .work-request .subhead {
+  color: #fff;
+  margin-bottom: 0.5em;
+ }
 
-.information-name {
-  background-color: #fff;
-  padding: 10px;
-}
-.information-email {
-  background-color: #fff;
-  padding: 10px;
-}
+  .work-request input {
+  color: #fff !important;
+  width: 18em;
+ }
