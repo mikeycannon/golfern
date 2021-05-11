@@ -104,9 +104,9 @@ SOURCES AND CREDITS:
 I've used the following resources as listed.
 
 Fonts:
- - Martel Font (https://fonts.google.com/specimen/Martel)
+ - Nunito Font (https://fonts.google.com/specimen/Nunito)
  - Gothis A1 Font (https://fonts.google.com/specimen/Gothic+A1) 
- - Work Sans Font (https://fonts.google.com/specimen/Work+Sans)
+ - Nunito Font (https://fonts.google.com/specimen/Nunito)
 
 Icons:
  - Iconmonstr (https://iconmonstr.com/)
